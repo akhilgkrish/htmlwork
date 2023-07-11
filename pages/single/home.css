@@ -1,0 +1,50 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100&display=swap');
+
+
+
+/*font-family: 'Noto Sans TC', sans-serif; */
+
+
+.first{
+    color: aqua;
+    font-size: 40px;
+    margin: 100px;
+    background-color: crimson;
+    padding: 100px;
+   
+}
+#son{
+    color: chartreuse;
+    font-size: 40px;
+    margin: 100px;
+    background-color: darkgreen;
+    padding: 100px;
+    
+
+}
+.hi{
+    background-image: url('/1311951.jpg');
+    color: rgb(245, 244, 240);
+    padding: 30px;
+    border: 20px ;
+    border-color: rgb(246, 244, 244);
+    border-style:ridge;
+    font-family: 'Noto Sans TC', sans-serif;
+    background-size:contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+h2{
+    background-color: chartreuse;
+    color: rgb(4, 4, 64);
+    padding: 40px;
+    border-width: 10px;
+    border-color: deeppink;
+    border-style:double;
+    
+    
+}
+ 
+ 
