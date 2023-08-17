@@ -15,9 +15,44 @@ color: rgb(84, 82, 82);
 .four{
     font-family:'Inter', sans-serif;
 }
-.b{
+a.five{
   font-family: 'EB Garamond', serif;
-  font-size:xx-large;
+  font-size: 50px;
   color: black;
+  text-decoration: none;
+  border-bottom: 5px;
+  border-color: black;
 }
+.b{
+  font-size: small;
+}
+.c{
+  font-family: 'EB Garamond', serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+.d{
+  font-family: 'EB Garamond', serif;
+  font-size: smaller;
+}
+.f1{
+  font-family: 'EB Garamond', serif;
+  color: black;
+
+}
+.f2{
+  font-family: 'EB Garamond', serif;
+  color:grey;
+  font-size:small; 
+}
+.six{
+  color: rgb(74, 72, 72);
+  font-size:smaller;
+  
+}
+.ab{
+  border-bottom: solid black 2px;
+  
+}
+
 
